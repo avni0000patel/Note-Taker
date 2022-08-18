@@ -1,8 +1,8 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "An application using Express.js to create a Note Taker.",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/avni0000patel/Note-Taker.git"
   },
-  "author": "",
+  "author": "Avni Patel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/avni0000patel/Note-Taker/issues"
